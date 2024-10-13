@@ -1,0 +1,22 @@
+Tipe data dalam js ada bebrapa macam sbb 
+
+1. Number
+   Tipe data yang menampung data Number atau angka atau nomor
+2. String
+   Tipe data yang menampung data String atau kata atau kalimat
+3. Bolean
+    Tipe data yang menampung data Bolean atau True atau False
+4. Undefined
+    Tipe data yang menampung data Undefined atau tidak ada data
+5. Null
+    Tipe data yang menampung data Null atau tidak ada data
+6. Object
+   Tipe data yang menampung struktur data yang leboh kompleks yang di gunakan 
+   menyimpan koleksi/table sebagai entitas
+7. Array
+   Tipe data yang Khusus dalam js, Bisa di gunakan untuk membungkus objek,
+    dan lebih banyak data di tampung
+8. Simbol
+   Digunakan untuk membuat indentifier yang unik
+9. BigInt
+   Digunakan untuk mewakili angka yang sangat besar
